@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "NFT",
+    "slug": "nftapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e1e9242a-9686-4c44-ad42-95b307576b48"
+      }
+    },
+    "owner": "nfts1234",
+    "android": {
+      "package": "com.nfts123.nft",
+      "userInterfaceStyle": "light",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
